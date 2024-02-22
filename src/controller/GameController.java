@@ -12,7 +12,7 @@ public class GameController {
         Game.GameBuilder gameBuilder = Game.getGameBuilder();
         gameBuilder.setBoard(new Board(boardSize));
         gameBuilder.setPlayers(players);
-        test
+        test123
 
         return gameBuilder.build();
     }
